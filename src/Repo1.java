@@ -6,10 +6,14 @@ public class Repo1 {
 		
 		System.out.println("Hi welcome to my first repo");
 		System.out.println("this line of code is added by me");
+	}
+		
+		
+		public void methode(){
 		
 		system.out.println("new line added");
 		
-
+		}
 	}
 
 }
